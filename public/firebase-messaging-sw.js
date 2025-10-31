@@ -7,7 +7,7 @@ importScripts(
 // your app's Firebase config object.
 // https://firebase.google.com/docs/web/setup#config-object
 firebase.initializeApp({
-  apiKey: "AIzaSyAHXG0J0cOOwZbQBOPRKtSlf6NXex33A6E,
+  apiKey: "AIzaSyAHXG0J0cOOwZbQBOPRKtSlf6NXex33A6",
   authDomain: "leblb-86867.firebaseapp.com",
   projectId: "leblb-86867",
   storageBucket: "leblb-86867.firebasestorage.app",
