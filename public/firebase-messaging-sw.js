@@ -10,7 +10,7 @@ firebase.initializeApp({
   apiKey: "AIzaSyAHXG0J0cOOwZbQBOPRKtSlf6NXex33A6",
   authDomain: "leblb-86867.firebaseapp.com",
   projectId: "leblb-86867",
- storageBucket: "leblb-86867.appspot.com",
+  storageBucket: "leblb-86867.firebasestorage.app",
   messagingSenderId: "158906932073",
   appId: "1:158906932073:web:9530682d10701e63777bf8",
   measurementId: "G-S7FLB6XV78x",
